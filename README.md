@@ -3,11 +3,11 @@
 
 1. ### **Optical Flow with SAM2 and YOLO-V8**: 
 
-    Result 
-    
+    1. Result 
+
         <img src="https://github.com/muralikarteek7/VLM4Autonomy-/blob/main/Results/output.gif?raw=true" width="400"> 
 
-    Flowchart 
+    2. Flowchart 
 
         <img src="https://github.com/muralikarteek7/VLM4Autonomy-/blob/main/Results/flow.png?raw=true" width="400"> 
 
