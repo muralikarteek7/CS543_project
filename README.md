@@ -4,6 +4,8 @@
 1. ### **Optical Flow with SAM2 and YOLO-V8**: 
     <img src="https://github.com/muralikarteek7/VLM4Autonomy-/blob/main/Results/output.gif?raw=true" width="400"> 
 
+    Flowchart 
+    
     <img src="https://github.com/muralikarteek7/VLM4Autonomy-/blob/main/Results/flow.png?raw=true" width="400"> 
 
 
@@ -11,7 +13,7 @@
 
      1. Road Segmentation Mask
 
-     <img src="https://github.com/muralikarteek7/VLM4Autonomy-/blob/main/Results/Sridhar_Images/Seg.png?raw=true" width="400"> 
+     <img src="https://github.com/muralikarteek7/VLM4Autonomy-/blob/main/Results/Sridhar_Images/seg.png?raw=true" width="400"> 
 
      2. Largest Rectangle Drivable area
 
