@@ -1,5 +1,5 @@
 ---
-## FROM VISION TO UNDERSTANDING : Leveraging VLMs to enable autonomous driving decisions
+## FROM VISION TO UNDERSTANDING: Leveraging VLMs to enable autonomous driving decisions
 
 1. ### **Optical Flow with SAM2 and YOLO-V8**: 
 
